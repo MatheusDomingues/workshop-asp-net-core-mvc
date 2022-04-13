@@ -16323,6 +16323,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/matheusdomingues/projects/SalesWebMvc/Views/Departments/Index.cshtml",
+      "TargetPath": "Views\\Departments\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/matheusdomingues/projects/SalesWebMvc/Views/_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
@@ -16330,6 +16335,11 @@
     {
       "FilePath": "/home/matheusdomingues/projects/SalesWebMvc/Views/Shared/_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/matheusdomingues/projects/SalesWebMvc/Views/Home/About.cshtml",
+      "TargetPath": "Views\\Home\\About.cshtml",
       "FileKind": "mvc"
     }
   ],
